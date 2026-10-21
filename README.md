@@ -4,5 +4,6 @@ Ich habe den grundlegenden Arbeitsablauf verstanden.
 - Ropository
 - Commit
 - Branch
+- Pull Reguest
 
 Ich habe ein Commit durchgeführt.
