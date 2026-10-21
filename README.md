@@ -4,3 +4,5 @@ Ich habe den grundlegenden Arbeitsablauf verstanden.
 - Ropository
 - Commit
 - Branch
+
+Ich habe ein Commit durchgeführt.
